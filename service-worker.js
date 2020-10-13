@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kakarottoproject/precache-manifest.7004c19060c815d4c481afad0f5e9dbd.js"
+  "/kakarottoproject/precache-manifest.6dbe4c83007c9d589dfd99e109d07be9.js"
 );
 
 self.addEventListener('message', (event) => {
