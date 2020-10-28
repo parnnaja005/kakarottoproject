@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e2ba775d238a0f00955780a1c25ed71",
+    "revision": "15f6b7724f03bda3bbcb01e196d7163c",
     "url": "/kakarottoproject/index.html"
   },
   {
-    "revision": "7c7730505f415c8e39a2",
+    "revision": "0b28412479a43922c090",
     "url": "/kakarottoproject/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "2e1548a290d146d6867d",
+    "revision": "7ab59b20ccf8082d5b0c",
     "url": "/kakarottoproject/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "7c7730505f415c8e39a2",
-    "url": "/kakarottoproject/static/js/2.122483dc.chunk.js"
+    "revision": "0b28412479a43922c090",
+    "url": "/kakarottoproject/static/js/2.14db3d63.chunk.js"
   },
   {
-    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/kakarottoproject/static/js/2.122483dc.chunk.js.LICENSE.txt"
+    "revision": "5e9b6f5c16b720e8a86875f97734673e",
+    "url": "/kakarottoproject/static/js/2.14db3d63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e1548a290d146d6867d",
-    "url": "/kakarottoproject/static/js/main.324348cd.chunk.js"
+    "revision": "7ab59b20ccf8082d5b0c",
+    "url": "/kakarottoproject/static/js/main.85a15810.chunk.js"
   },
   {
     "revision": "003bd74c7f8f8c146240",
